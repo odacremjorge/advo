@@ -1,0 +1,4 @@
+[05-Sep-2022 19:21:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/hculking1/public_html/advo/club_bolivar_voleibol/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hculking1/public_html/advo/club_bolivar_voleibol/database/factories/UserFactory.php on line 8

@@ -1,0 +1,4 @@
+[05-Sep-2022 16:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/hculking1/public_html/advo/club_bolivar_voleibol/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hculking1/public_html/advo/club_bolivar_voleibol/bootstrap/app.php on line 14
