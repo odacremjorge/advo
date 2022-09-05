@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
 <main>
-        <center><h1>ULTIMAS NOTICIAS DE LA ASOCIACION MUNICIPAL DE VOLEIBOL ORURO</h1><br></center>
+        <center><h1>ULTIMAS NOTICIAS DE LA ASOCIACION DEPARTAMENTAL DE VOLEIBOL ORURO</h1><br></center>
 
 
 </main>
