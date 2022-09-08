@@ -27,6 +27,10 @@
                     @auth
                         <a href="{{ url('/home') }}">Inicio</a>
                     @else
+
+
+                    
+
                         <a href="{{ route('login') }}">Iniciar Sesión</a>
                         <!--
                         @if (Route::has('register'))
